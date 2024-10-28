@@ -1,0 +1,34 @@
+
+Final ScheduledActivity:
+================================================================================
+
+Time Slot: 10 AM
+--------------------------------------------------------------------------------
+Activity: SLA100A  | Room: Frank 119    | Facilitator: Zeldin  
+Activity: SLA451   | Room: Loft 310     | Facilitator: Shaw    
+
+Time Slot: 11 AM
+--------------------------------------------------------------------------------
+Activity: SLA449   | Room: Beach 301    | Facilitator: Tyler   
+Activity: SLA191A  | Room: Frank 119    | Facilitator: Lock    
+
+Time Slot: 12 PM
+--------------------------------------------------------------------------------
+Activity: SLA303   | Room: Beach 201    | Facilitator: Zeldin  
+Activity: SLA291   | Room: Frank 119    | Facilitator: Banks   
+
+Time Slot: 1 PM
+--------------------------------------------------------------------------------
+Activity: SLA191B  | Room: Beach 201    | Facilitator: Lock    
+
+Time Slot: 2 PM
+--------------------------------------------------------------------------------
+Activity: SLA394   | Room: Frank 119    | Facilitator: Tyler   
+
+Time Slot: 3 PM
+--------------------------------------------------------------------------------
+Activity: SLA304   | Room: Beach 201    | Facilitator: Tyler   
+Activity: SLA201   | Room: Beach 301    | Facilitator: Banks   
+Activity: SLA100B  | Room: Loft 310     | Facilitator: Zeldin  
+
+Fitness Score: 11.349999999999993
